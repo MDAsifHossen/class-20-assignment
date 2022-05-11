@@ -1,0 +1,53 @@
+.navbar{
+    background-color: #E3F2FD;
+}
+
+.navbar-brand img{
+    width: 50px;
+}
+
+/* breadcrumb section */
+
+.breadcrumb{
+    background-color: #E9ECEF;
+    padding: 10px;
+}
+
+
+/* banner section */
+
+.carousel-item{
+    height: 600px;
+}
+.carousel-item img{
+    max-height: 100%;
+}
+
+/* alert section */
+
+
+
+/* progress-nar-section */
+
+
+.progress-nar-section{
+    padding: 50px 0;
+}
+
+/* modal-and-tooltype start here */
+
+
+/* scrollsspy section */
+
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+}
+
+/* pagination-section */
+
+.pagination-section{
+    padding: 50px 0;
+}
